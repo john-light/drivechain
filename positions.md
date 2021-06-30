@@ -22,7 +22,7 @@ Documenting public positions on the various Drivechain related BIPs.
 
 |	Name	| Affiliation | [BIP-300](https://github.com/bitcoin/bips/blob/master/bip-0300.mediawiki) | [BIP-R11](https://github.com/rsksmart/bips/blob/master/BIP-R11.md) | [BIP-301 BMM](https://github.com/bitcoin/bips/blob/master/bip-0301.mediawiki) | [BIP-118 BMM](https://gist.github.com/RubenSomsen/5e4be6d18e5fa526b17d8b34906b16a5) | [BIP-119 BMM](https://gist.github.com/RubenSomsen/5e4be6d18e5fa526b17d8b34906b16a5) | 
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| John Light |	 | Wanting | Deficient | Wanting | Weak | Weak | 
+| John Light |	 | Wanting | Deficient | Wanting | Acceptable | Weak | 
 
 ## Organizations
 
