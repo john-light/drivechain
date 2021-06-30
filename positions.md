@@ -1,4 +1,4 @@
-# Public opinions about Drivechain
+# Public positions on Drivechain
 
 Documenting public positions on the various Drivechain related BIPs.
 
